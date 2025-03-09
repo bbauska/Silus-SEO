@@ -1,11 +1,13 @@
 <h2>Resources for Building your YouTube Channel:</h2>
-►<a href="https://youtu.be/Y8olOQ3GgAA">How to Make a YouTube Banner:</a>
-►<a href="https://youtu.be/Sp3dFF-Bts0">How to Make a Thumbnail for YouTube Videos:</a>
-►<a href="https://youtu.be/T8IcC45LRnI">How to Make a Video Intro for YouTube:</a>
-►<a href="https://youtu.be/64QbHfWh-EM">How to Make a Youtube End Card Template:</a>
-►<a href="https://youtu.be/Mj_hesp5bEQ">How to Add PROGRESS BAR to Video:</a>
-►<a href="https://youtu.be/tRyTnOiAnsQ">How to Make Animated Titles:</a>
-►<a href="https://youtu.be/XrK6w_b5n_8">How to Make YouTube Stories:</a>
+<ul>
+<li>►<a href="https://youtu.be/Y8olOQ3GgAA">How to Make a YouTube Banner:</a></li>
+<li>►<a href="https://youtu.be/Sp3dFF-Bts0">How to Make a Thumbnail for YouTube Videos:</a></li>
+<li>►<a href="https://youtu.be/T8IcC45LRnI">How to Make a Video Intro for YouTube:</a></li>
+<li>►<a href="https://youtu.be/64QbHfWh-EM">How to Make a Youtube End Card Template:</a></li>
+<li>►<a href="https://youtu.be/Mj_hesp5bEQ">How to Add PROGRESS BAR to Video:</a></li>
+<li>►<a href="https://youtu.be/tRyTnOiAnsQ">How to Make Animated Titles:</a></li>
+<li>►<a href="https://youtu.be/XrK6w_b5n_8">How to Make YouTube Stories:</a></li>
+</ul>
 
 <h3>Resources to 10X your YouTube Channel:</h3>
 ►<a href="https://youtu.be/2rTZpiwm6rw">YouTube Channel Names - 6 Steps to Pick Your Channel Name:</a>
