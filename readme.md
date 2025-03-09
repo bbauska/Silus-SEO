@@ -10,17 +10,21 @@
 </ul>
 
 <h3>Resources to 10X your YouTube Channel:</h3>
-►<a href="https://youtu.be/2rTZpiwm6rw">YouTube Channel Names - 6 Steps to Pick Your Channel Name:</a>
-►<a href="https://youtu.be/cCpvVDc0Glw">How to Make a GOOD YouTube Video:</a>
-►<a href="https://youtu.be/zzJ25-rvmWo">Best Time To Upload YouTube Videos to YOUR Channel:</a>
-►<a href="https://youtu.be/5m0xF1SMTfE">INCREASE YouTube Watch Time - 5 Easy Tips:</a>
-►<a href="https://youtu.be/T54LOlTFDD0">YouTube Ranking: Advanced YouTube Thumbnail Tips for MORE Views:</a>
-►<a href="https://youtu.be/kqnDWKbH7Cw">How to Manage YouTube Comments Like a PRO:</a>
+<ul>
+<li>►<a href="https://youtu.be/2rTZpiwm6rw">YouTube Channel Names - 6 Steps to Pick Your Channel Name:</a></li>
+<li>►<a href="https://youtu.be/cCpvVDc0Glw">How to Make a GOOD YouTube Video:</a></li>
+<li>►<a href="https://youtu.be/zzJ25-rvmWo">Best Time To Upload YouTube Videos to YOUR Channel:</a></li>
+<li>►<a href="https://youtu.be/5m0xF1SMTfE">INCREASE YouTube Watch Time - 5 Easy Tips:</a></li>
+<li>►<a href="https://youtu.be/T54LOlTFDD0">YouTube Ranking: Advanced YouTube Thumbnail Tips for MORE Views:</a></li>
+<li>►<a href="https://youtu.be/kqnDWKbH7Cw">How to Manage YouTube Comments Like a PRO:</a></li>
+</ul>
 
 <h3>📕 Download the FREE Youtube Ranking Guide, featuring the 3 most powerful tools & ranking strategies to 10X your traffic on YouTube!</h3>
-►<a href="https://primalvideo.com/youtube-ranki...">Primal Video</a>
-📕 <a href="https://primalvideo.com/gear">*** GEAR WE USE ***</a>
-🚀 <a href="https://primalvideo.com/pvaccelerator">Join the Primal Video Accelerator waitlist:</a>
+<ul>
+<li>►<a href="https://primalvideo.com/youtube-ranki...">Primal Video</a></li>
+<li>📕 <a href="https://primalvideo.com/gear">*** GEAR WE USE ***</a></li>
+<li>🚀 <a href="https://primalvideo.com/pvaccelerator">Join the Primal Video Accelerator waitlist:</a></li>
+</ul>
 
 <h3>🚀 Learn how to build an audience, generate new leads on autopilot and SCALE your business with video step-by-step in our fast-track Primal Video Accelerator program!</h3>
 
